@@ -1,11 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdcdx&count_private=true&show_icons=true" />
-</a>
-<!--
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdcdx&&hide=vue,c%23" />
-</a>
--->
 
-### Please give a Star if you like.
+| <a href="https://github.com/cdcdx"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cdcdx&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=javascript" alt="cdcdx's github stats" /></a> | <a href="https://github.com/cdcdx"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdcdx&count_private=true&layout=compact&theme=buefy&hide_border=true&hide=javascript" /></a> |
+| ------------- | ------------- |
+
+#### please give a star if you like.
 ![](http://profile-counter.glitch.me/cdcdx/count.svg)
