@@ -22,7 +22,7 @@
 </div>
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <h2>:fire: My Stats</h2>
+    <!-- <h2>:fire: My Stats</h2> -->
     <a style="display: flex; align-items: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdcdx&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
